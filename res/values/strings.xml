@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloMoon</string>
+    <string name="hellomoon_play">Play</string>
+    <string name="hellomoon_stop">Stop</string>
+    <string name="hellomoon_pause">Pause</string>
+    <string name="hellomoon_description">Neil Atmstring stepping onto the moon</string>
+    <string name="hellomoonvideo_description">Men walking on moon</string>
+    <string name="hellomoon_video">Video</string>
+</resources>
